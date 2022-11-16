@@ -1,1 +1,2 @@
 # hackdroid
+OPEN START.PY
